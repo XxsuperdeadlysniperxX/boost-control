@@ -5,6 +5,6 @@
 	"description": "Lets you manually control your mech's boosters on mobile.\n[stat]Requires [#00aaff]DeltaNedas/ui-lib[].",
 	"version": "2.2.0",
 	"dependencies": ["ui-lib"],
-	"minGameVersion": "105",
+	"minGameVersion": "135",
 	"hidden": true
 }
