@@ -6,5 +6,5 @@
 	"version": "2.2.0",
 	"dependencies": ["ui-lib"],
 	"minGameVersion": "135",
-	"hidden": true
+	"hidden": false
 }
